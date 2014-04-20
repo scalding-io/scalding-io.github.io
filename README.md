@@ -1,7 +1,7 @@
 Scalding Input-Output
 =====================
 
-![Scalding Logo][scalding]
+![Scalding Logo](scalding.jpg)
 
 Scalding IO hosts a series of projects we built around Twitter's Scalding (https://github.com/twitter/scalding) framework.
 
